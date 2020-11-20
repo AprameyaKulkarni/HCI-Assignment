@@ -1,0 +1,426 @@
+[
+    {
+        "note_title": "Movies to watch",
+        "color": "0xFFBA68C8",
+        "sections": [
+                {
+                    "title": "Marvel",
+                    "id": 14,
+                    "data": {
+                        "type": "Text",
+                        "text": "1. Captain Marvel\n2. Captain America 1,2,3"
+                    }
+                },
+                {
+                    "title": "1917 - Trailer",
+                    "id": 15,
+                    "data": {
+                        "type": "AV",
+                        "text": "AV type"
+                    }
+                },
+                {
+                    "title": "Comedy",
+                    "id": 16,
+                    "data": {
+                        "type": "Text",
+                        "text": "1. Analyse this\n"
+                    }
+                },
+                {
+                    "title": "Kannada",
+                    "id": 17,
+                    "data": {
+                        "type": "Text",
+                        "text": "1. Kaviratna Kalidasa\n2. Aakasmika\n3. Gaalipata\n4. Mungaaru Male\n"
+                    }
+                },
+                {
+                    "title": "Horror",
+                    "id": 18,
+                    "data": {
+                        "type": "Text",
+                        "text": "1. The Woman in Black\n2. It\n3. Get out\n"
+                    }
+                },
+                {
+                    "title": "Animated",
+                    "id": 19,
+                    "data": {
+                        "type": "Text",
+                        "text": "1. Toy Story\n2. Cars\n3. KungFu Panda\n"
+                    }
+                },
+                {
+                    "title": "Charlie Chaplin",
+                    "id": 20,
+                    "data": {
+                        "type": "Text",
+                        "text": "1. Modern Times\n2. The Great Dictator\n"
+                    }
+                },
+                {
+                    "title": "Horror",
+                    "id": 21,
+                    "data": {
+                        "type": "Text",
+                        "text": "1. The Woman in Black\n2. It\n3. Get out\n"
+                    }
+                },
+                {
+                    "title": "Horror-Kannada",
+                    "id": 22,
+                    "data": {
+                        "type": "Text",
+                        "text": "1. U Turn\n2. Aaptamitra\n"
+                    }
+                },
+                {
+                    "title": "Hindi-comedy",
+                    "id": 23,
+                    "data": {
+                        "type": "Text",
+                        "text": "1. Golmaal\n2. Chennai Express\n"
+                    }
+                }
+        ]
+    },
+    {
+        "note_title": "Schedule",
+        "color": "0xFFEF9A9A",
+        "sections": [
+                {
+                    "title": "Monday",
+                    "id": 14,
+                    "data": {
+                        "type": "Text",
+                        "text": "English, Sketching, Maths"
+                    }
+                },
+                {
+                    "title": "Tuesday",
+                    "id": 16,
+                    "data": {
+                        "type": "Text",
+                        "text": "Kannada, Hindi, Science"
+                    }
+                }
+        ]
+    },
+    {
+        "note_title": "Shopping",
+        "color": "0xFF6A0FF6",
+        "sections": [
+                {
+                    "title": "General Store",
+                    "id": 12,
+                    "data": {
+                        "type": "Text",
+                        "text": "1. Sugar 1 Kg\n2. Milk 2 Ltr\n"
+                    }
+                },
+                {
+                    "title": "Fancy pen",
+                    "id": 13,
+                    "data": {
+                        "type": "Image",
+                        "text": "Image type"
+                    }
+                },
+                {
+                    "title": "Mall",
+                    "id": 14,
+                    "data": {
+                        "type": "Text",
+                        "text": "1. School Bag\n2. Watter Bottle\n"
+                    }
+                }
+        ]
+    },
+    {
+        "note_title": "Expenses",
+        "color": "0xFF64B506",
+        "sections": [
+            {
+                "title": "January",
+                "id": 12,
+                "data": {
+                    "type": "Text",
+                    "text": "1. Trip - 2000\n2. Birthday - 300\n3. Gift - 200\n"
+                }
+            },
+            {
+                "title": "February",
+                "id": 13,
+                "data": {
+                    "type": "Text",
+                    "text": "1. Trip - 2000\n2. Birthday - 300\n3. Gift - 200\n"
+                }
+            }
+        ]
+    },
+    {
+        "note_title": "Books",
+        "color": "0xFF64B5F6",
+        "sections": [
+            {
+                "title": "Borrowed",
+                "id": 12,
+                "data": {
+                    "type": "Text",
+                    "text": "1. The Alchemist\n"
+                }
+            },
+            {
+                "title": "To Buy",
+                "id": 13,
+                "data": {
+                    "type": "Text",
+                    "text": "1. How to paint for dummies\n"
+                }
+            }
+        ]
+    },
+    {
+        "note_title": "Tv Series",
+        "color": "0xFF64B5F6",
+        "sections": [
+            {
+                "title": "English",
+                "id": 12,
+                "data": {
+                    "type": "Text",
+                    "text": "1. The Sopranos\n"
+                }
+            },
+            {
+                "title": "Hindi",
+                "id": 13,
+                "data": {
+                    "type": "Text",
+                    "text": "1. Scam 1992\n"
+                }
+            },
+            {
+                "title": "German",
+                "id": 14,
+                "data": {
+                    "type": "Text",
+                    "text": "1. Dark\n"
+                }
+            }
+        ]
+    },
+    {
+        "note_title": "Movies to watch",
+        "color": "0xFFBA68C8",
+        "sections": [
+            {
+                "title": "Marvel",
+                "id": 14,
+                "data": {
+                    "type": "Text",
+                    "text": "1. Captain Marvel\n2. Captain America 1,2,3"
+                }
+            },
+            {
+                "title": "1917 - Trailer",
+                "id": 15,
+                "data": {
+                    "type": "AV",
+                    "text": "AV type"
+                }
+            },
+            {
+                "title": "Comedy",
+                "id": 16,
+                "data": {
+                    "type": "Text",
+                    "text": "1. Analyse this\n"
+                }
+            },
+            {
+                "title": "Kannada",
+                "id": 17,
+                "data": {
+                    "type": "Text",
+                    "text": "1. Kaviratna Kalidasa\n2. Aakasmika\n3. Gaalipata\n4. Mungaaru Male\n"
+                }
+            },
+            {
+                "title": "Horror",
+                "id": 18,
+                "data": {
+                    "type": "Text",
+                    "text": "1. The Woman in Black\n2. It\n3. Get out\n"
+                }
+            },
+            {
+                "title": "Animated",
+                "id": 19,
+                "data": {
+                    "type": "Text",
+                    "text": "1. Toy Story\n2. Cars\n3. KungFu Panda\n"
+                }
+            },
+            {
+                "title": "Charlie Chaplin",
+                "id": 20,
+                "data": {
+                    "type": "Text",
+                    "text": "1. Modern Times\n2. The Great Dictator\n"
+                }
+            },
+            {
+                "title": "Horror",
+                "id": 21,
+                "data": {
+                    "type": "Text",
+                    "text": "1. The Woman in Black\n2. It\n3. Get out\n"
+                }
+            },
+            {
+                "title": "Horror-Kannada",
+                "id": 22,
+                "data": {
+                    "type": "Text",
+                    "text": "1. U Turn\n2. Aaptamitra\n"
+                }
+            },
+            {
+                "title": "Hindi-comedy",
+                "id": 23,
+                "data": {
+                    "type": "Text",
+                    "text": "1. Golmaal\n2. Chennai Express\n"
+                }
+            }
+        ]
+    },
+    {
+        "note_title": "Schedule",
+        "color": "0xFFEF9A9A",
+        "sections": [
+            {
+                "title": "Monday",
+                "id": 14,
+                "data": {
+                    "type": "Text",
+                    "text": "English, Sketching, Maths"
+                }
+            },
+            {
+                "title": "Tuesday",
+                "id": 16,
+                "data": {
+                    "type": "Text",
+                    "text": "Kannada, Hindi, Science"
+                }
+            }
+        ]
+    },
+    {
+        "note_title": "Shopping",
+        "color": "0xFF6A0FF6",
+        "sections": [
+            {
+                "title": "General Store",
+                "id": 12,
+                "data": {
+                    "type": "Text",
+                    "text": "1. Sugar 1 Kg\n2. Milk 2 Ltr\n"
+                }
+            },
+            {
+                "title": "Fancy pen",
+                "id": 13,
+                "data": {
+                    "type": "Image",
+                    "text": "Image type"
+                }
+            },
+            {
+                "title": "Mall",
+                "id": 14,
+                "data": {
+                    "type": "Text",
+                    "text": "1. School Bag\n2. Watter Bottle\n"
+                }
+            }
+        ]
+    },
+    {
+        "note_title": "Expenses",
+        "color": "0xFF64B506",
+        "sections": [
+            {
+                "title": "January",
+                "id": 12,
+                "data": {
+                    "type": "Text",
+                    "text": "1. Trip - 2000\n2. Birthday - 300\n3. Gift - 200\n"
+                }
+            },
+            {
+                "title": "February",
+                "id": 13,
+                "data": {
+                    "type": "Text",
+                    "text": "1. Trip - 2000\n2. Birthday - 300\n3. Gift - 200\n"
+                }
+            }
+        ]
+    },
+    {
+        "note_title": "Books",
+        "color": "0xFF64B5F6",
+        "sections": [
+            {
+                "title": "Borrowed",
+                "id": 12,
+                "data": {
+                    "type": "Text",
+                    "text": "1. The Alchemist\n"
+                }
+            },
+            {
+                "title": "To Buy",
+                "id": 13,
+                "data": {
+                    "type": "Text",
+                    "text": "1. How to paint for dummies\n"
+                }
+            }
+        ]
+    },
+    {
+        "note_title": "Tv Series",
+        "color": "0xFF64B5F6",
+        "sections": [
+            {
+                "title": "English",
+                "id": 12,
+                "data": {
+                    "type": "Text",
+                    "text": "1. The Sopranos\n"
+                }
+            },
+            {
+                "title": "Hindi",
+                "id": 13,
+                "data": {
+                    "type": "Text",
+                    "text": "1. Scam 1992\n"
+                }
+            },
+            {
+                "title": "German",
+                "id": 14,
+                "data": {
+                    "type": "Text",
+                    "text": "1. Dark\n"
+                }
+            }
+        ]
+    }
+]
